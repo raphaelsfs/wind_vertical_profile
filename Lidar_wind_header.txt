@@ -1,0 +1,18 @@
+# col. 01 : Year
+# col. 02 : Month
+# col. 03 : Day
+# col. 04 : Hour
+#
+# col. 05->16 : Horizontal wind SPEED (m/s)
+# col. 05 : Wind speed at 40m AGL (above ground level)
+# col. 06 : Wind speed at 60m AGL
+# col. 07 : Wind speed at 80m AGL
+# col. 08 : Wind speed at 100m AGL
+# col. 09 : Wind speed at 120m AGL
+# col. 10 : Wind speed at 140m AGL
+# col. 11 : Wind speed at 150m AGL
+# col. 12 : Wind speed at 160m AGL
+# col. 13 : Wind speed at 180m AGL
+# col. 14 : Wind speed at 200m AGL
+# col. 15 : Wind speed at 225m AGL
+# col. 16 : Wind speed at 250m AGL
